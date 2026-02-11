@@ -1,5 +1,5 @@
 # Hi there 👋
-  Computer Engineering student and Systems Development Technician. I have been studying programming for 4 years, working with languages such as Python, C#, Java, JavaScript, and SQL. 
+  Computer Engineering student and Systems Development Technician. I have been studying programming for 7 years, working with languages such as Python, C#, Java, JavaScript, and SQL. 
 
 ## Expertise -
   Técnico em Desenvolvimento de Sistemas (ETESP - Etec de São Paulo);
